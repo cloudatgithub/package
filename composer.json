@@ -1,0 +1,14 @@
+{
+    "name": "cloudatgithub/package",
+    "description": "package project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "meng xiangwei",
+            "email": "3344533686@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
